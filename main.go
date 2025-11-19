@@ -1,9 +1,9 @@
 package main
 
 import (
-	"TestiCLGO/internal/ascii_art"
-	"TestiCLGO/internal/gamepad"
-	"TestiCLGO/internal/utils"
+	"github.com/inmate302/TestiCLGO/internal/ascii_art"
+	"github.com/inmate302/TestiCLGO/internal/gamepad"
+	"github.com/inmate302/TestiCLGO/internal/utils"
 	"log"
 	"strings"
 
