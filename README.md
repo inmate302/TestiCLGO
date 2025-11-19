@@ -36,5 +36,6 @@ Installation
 
   After that you may run the program from your terminal:
 
-        testiclgo
+        testiCLGO
+
 
