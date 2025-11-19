@@ -32,11 +32,11 @@ Installation
 - Or if you want to build it from source make sure you have the latest version of Go installed in your system and
   from your terminal run:
 
-      go install github.com/inmate302/TestiCL-go
+      go install github.com/inmate302/TestiCLGO@latest
 
   After that you may run the program from your terminal:
 
-        testiCLGO
+        TestiCLGO
 
 
 
