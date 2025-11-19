@@ -1,4 +1,4 @@
-module TestiCLGO
+module github.com/inmate302/TestiCLGO
 
 go 1.25.3
 
