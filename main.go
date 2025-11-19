@@ -1,15 +1,15 @@
 package main
 
 import (
-	"github.com/inmate302/TestiCLGO/internal/ascii_art"
-	"github.com/inmate302/TestiCLGO/internal/gamepad"
-	"github.com/inmate302/TestiCLGO/internal/utils"
 	"log"
 	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 	"github.com/veandco/go-sdl2/sdl"
+	"github.com/inmate302/TestiCLGO/internal/ascii_art"
+	"github.com/inmate302/TestiCLGO/internal/gamepad"
+	"github.com/inmate302/TestiCLGO/internal/utils"
 )
 
 type gpMsg gamepad.Event
