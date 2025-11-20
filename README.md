@@ -10,16 +10,15 @@ and with a bunch less of dependencies and libraries installed on your computer.
 ![output](https://github.com/user-attachments/assets/51873209-42a6-47e5-86f5-9a326f25b46c)
 
 
-## Motivation - Why TestiCL?
+Why TestiCL?
 ===============
 Because GUI apps are **BLOAT**. Just kidding.
 Ever since changing fully to linux I have spent a fair amount of time in the terminal
 and enjoyed many TUI apps. So if you live in the terminal and need a controller tested
 this might be the app for you.
 
-## What's new?
-
-
+What's new?
+===============
 
 Thumbsticks are rendered dinamically now and with the correct tolerances, 
 so they shouldn't jitter and flick erratically (unless they're pretty mangled).
