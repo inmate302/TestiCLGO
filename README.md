@@ -10,15 +10,15 @@ and with a bunch less of dependencies and libraries installed on your computer.
 ![output](https://github.com/user-attachments/assets/51873209-42a6-47e5-86f5-9a326f25b46c)
 
 
-Why TestiCL?
+## Motivation - Why TestiCL?
 ===============
 Because GUI apps are **BLOAT**. Just kidding.
 Ever since changing fully to linux I have spent a fair amount of time in the terminal
 and enjoyed many TUI apps. So if you live in the terminal and need a controller tested
 this might be the app for you.
 
-What's new?
-===============
+## What's new?
+
 
 
 Thumbsticks are rendered dinamically now and with the correct tolerances, 
@@ -37,17 +37,24 @@ What is left to be done?
 - Parse a string with Controller name, GUID, mappings so they can use it
   with their projects and games.
 
-Installation
-===============
+# Quick Start
+
+## Installation
+
 - You may download the binary from the releases section [here](https://github.com/inmate302/TestiCL-go/releases) on github
 - Or if you want to build it from source make sure you have the latest version of Go installed in your system and
   from your terminal run:
 
       go install github.com/inmate302/TestiCLGO@latest
 
-  After that you may run the program from your terminal:
+## Usage
+  Just run the program from your terminal:
 
         TestiCLGO
+
+# Contributing
+
+Feel free to leave feedback in the [issues](https://github.com/inmate302/TestiCLGO/issues) section.
 
 
 
