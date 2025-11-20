@@ -7,6 +7,9 @@ Rework of "TestiCL" a CLI controller test app (hence the anagram).
 It is now written in Go and it uses bubbletea. So it should be faster, lighter
 and with a bunch less of dependencies and libraries installed on your computer.
 
+![output](https://github.com/user-attachments/assets/51873209-42a6-47e5-86f5-9a326f25b46c)
+
+
 Why TestiCL?
 ===============
 Because GUI apps are **BLOAT**. Just kidding.
