@@ -7,8 +7,8 @@ Rework of "TestiCL" a CLI controller test app (hence the anagram).
 It is now written in Go and it uses bubbletea. So it should be faster, lighter
 and with a bunch less of dependencies and libraries installed on your computer.
 
-What's new?
-===============
+# What's new?
+
 
 Thumbsticks are rendered dinamically now and with the correct tolerances, 
 so they shouldn't jitter and flick erratically (unless they're pretty mangled).
