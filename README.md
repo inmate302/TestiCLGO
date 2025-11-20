@@ -12,7 +12,7 @@ Why TestiCL?
 Because GUI apps are **BLOAT**. Just kidding.
 Ever since changing fully to linux I have spent a fair amount of time in the terminal
 and enjoyed many TUI apps. So if you live in the terminal and need a controller tested
-this is the app for you.
+this might be the app for you.
 
 What's new?
 ===============
